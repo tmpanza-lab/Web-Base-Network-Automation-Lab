@@ -355,6 +355,30 @@ Let’s go to mikrotik terminal and see if the script is work you can see that n
 ![image](https://github.com/user-attachments/assets/99d0118b-561b-4675-bfe9-25e9574e0e6d)
 ![image](https://github.com/user-attachments/assets/0575d407-a41d-4664-97b5-8bd9f33069df)
 ![image](https://github.com/user-attachments/assets/917c32a0-a552-406d-b7e2-b69830ebfcc4)
+![image](https://github.com/user-attachments/assets/ad12fcf5-08c7-472d-8fa9-56158161bb39)
+![image](https://github.com/user-attachments/assets/70346637-bfd3-4f35-aa26-97b58ba5f680)
+![image](https://github.com/user-attachments/assets/699053a5-277b-4b0a-ac8e-7f44cb681b5b)
+![image](https://github.com/user-attachments/assets/58bba9d5-0ccb-4f68-b261-4290fe41544b)
+![image](https://github.com/user-attachments/assets/c9459ef8-e440-40c8-ac4d-0fdeff58ef4c)
+![image](https://github.com/user-attachments/assets/5c75cf2b-b42c-4ccd-870d-39b88157793b)
+![image](https://github.com/user-attachments/assets/4e47e7ae-2cd5-4a2a-8cb9-2b6469eb0ef6)
+![image](https://github.com/user-attachments/assets/165feb69-1e7c-4ba6-adfc-7cd6b9fbdcfb)
+![image](https://github.com/user-attachments/assets/4e35f18e-db58-4cd2-9fc0-0155dbb0a293)
+![image](https://github.com/user-attachments/assets/fe3b4dd2-a05a-4717-a206-67689ab73741)
+![image](https://github.com/user-attachments/assets/5eb750fe-2c37-4e2d-8905-86ba905c4f1d)
+![image](https://github.com/user-attachments/assets/804c6676-a09a-4414-bc94-71b4228a30c2)
+![image](https://github.com/user-attachments/assets/a45ea164-bf9c-490d-8141-8e65349194f3)
+![image](https://github.com/user-attachments/assets/d7adffd4-1d14-4361-b418-0f528ce6cc52)
+![image](https://github.com/user-attachments/assets/69d9c27b-b6ed-4015-acdd-7d0d1a33e376)
+![image](https://github.com/user-attachments/assets/fb2a1bc6-b962-4d02-bfe8-aacfbf846309)
+# Part 2 - Adding bootstrap to the project
+![image](https://github.com/user-attachments/assets/803cc11c-312d-4e1a-a7af-23424f51d227)
+![image](https://github.com/user-attachments/assets/999d241c-b0be-4da7-97dc-5dc70585dc6a)
+![image](https://github.com/user-attachments/assets/2c2a2aa0-a164-48a3-9546-774d90ca72ac)
+![image](https://github.com/user-attachments/assets/c54751cc-6e0c-40c2-b72a-c0e1c84373a4)
+![image](https://github.com/user-attachments/assets/0beabcd2-e62d-4ca2-b7b4-3e2dbc2d3d8d)
+
+
 
  
 Thank you for watching, and see you on the LAB!
